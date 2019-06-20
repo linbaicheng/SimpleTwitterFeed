@@ -1,2 +1,0 @@
-# SimpleTwitterFeed
-Created with CodeSandbox
